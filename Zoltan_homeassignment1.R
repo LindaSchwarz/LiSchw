@@ -1,5 +1,6 @@
-####HOME ASSINGMENT 1 #####
 
+####HOME ASSINGMENT 1 #####
+#by Linda Schwarz
 rm(list=ls(all=TRUE)) # clears the workspace
 graphics.off()
 
