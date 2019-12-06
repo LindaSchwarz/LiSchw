@@ -1,4 +1,5 @@
-#assignemnt 2
+###### Home assignemnt 2#####
+#by Linda Schwarz
 
 rm(list=ls(all=TRUE)) # clears the workspace
 graphics.off()
